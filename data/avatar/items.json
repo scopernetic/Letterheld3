@@ -1,0 +1,384 @@
+[
+  {
+    "id": "base-monkey",
+    "label": "Aap",
+    "slot": "base",
+    "price": 0,
+    "asset": "assets/avatar/base/monkey.svg",
+    "unlock": "free"
+  },
+  {
+    "id": "base-frog",
+    "label": "Kikker",
+    "slot": "base",
+    "price": 0,
+    "asset": "assets/avatar/base/frog.svg",
+    "unlock": "free"
+  },
+  {
+    "id": "base-bear",
+    "label": "Beer",
+    "slot": "base",
+    "price": 0,
+    "asset": "assets/avatar/base/bear.svg",
+    "unlock": "free"
+  },
+  {
+    "id": "base-owl",
+    "label": "Uil",
+    "slot": "base",
+    "price": 0,
+    "asset": "assets/avatar/base/owl.svg",
+    "unlock": "free"
+  },
+  {
+    "id": "base-cat",
+    "label": "Kat",
+    "slot": "base",
+    "price": 0,
+    "asset": "assets/avatar/base/cat.svg",
+    "unlock": "free"
+  },
+  {
+    "id": "base-dragon",
+    "label": "Draak",
+    "slot": "base",
+    "price": 0,
+    "asset": "assets/avatar/base/dragon.svg",
+    "unlock": "free"
+  },
+  {
+    "id": "background-sunrise",
+    "label": "Zonsopkomst",
+    "slot": "background",
+    "price": 4,
+    "asset": "assets/avatar/layers/background/sunrise.svg",
+    "unlock": {
+      "type": "stars",
+      "price": 4
+    }
+  },
+  {
+    "id": "background-ocean",
+    "label": "Oceaan",
+    "slot": "background",
+    "price": 7,
+    "asset": "assets/avatar/layers/background/ocean.svg",
+    "unlock": {
+      "type": "stars",
+      "price": 7
+    }
+  },
+  {
+    "id": "background-forest",
+    "label": "Bos",
+    "slot": "background",
+    "price": 10,
+    "asset": "assets/avatar/layers/background/forest.svg",
+    "unlock": {
+      "type": "stars",
+      "price": 10
+    }
+  },
+  {
+    "id": "background-space",
+    "label": "Ruimte",
+    "slot": "background",
+    "price": 13,
+    "asset": "assets/avatar/layers/background/space.svg",
+    "unlock": {
+      "type": "stars",
+      "price": 13
+    }
+  },
+  {
+    "id": "color-coral",
+    "label": "Koraalgloed",
+    "slot": "color",
+    "price": 4,
+    "asset": "assets/avatar/layers/color/coral.svg",
+    "unlock": {
+      "type": "stars",
+      "price": 4
+    }
+  },
+  {
+    "id": "color-mint",
+    "label": "Muntgloed",
+    "slot": "color",
+    "price": 7,
+    "asset": "assets/avatar/layers/color/mint.svg",
+    "unlock": {
+      "type": "stars",
+      "price": 7
+    }
+  },
+  {
+    "id": "color-blue",
+    "label": "Blauwglans",
+    "slot": "color",
+    "price": 10,
+    "asset": "assets/avatar/layers/color/blue.svg",
+    "unlock": {
+      "type": "stars",
+      "price": 10
+    }
+  },
+  {
+    "id": "color-violet",
+    "label": "Violetglans",
+    "slot": "color",
+    "price": 13,
+    "asset": "assets/avatar/layers/color/violet.svg",
+    "unlock": {
+      "type": "stars",
+      "price": 13
+    }
+  },
+  {
+    "id": "outfit-hero",
+    "label": "Heldenpak",
+    "slot": "outfit",
+    "price": 4,
+    "asset": "assets/avatar/layers/outfit/hero.svg",
+    "unlock": {
+      "type": "stars",
+      "price": 4
+    }
+  },
+  {
+    "id": "outfit-explorer",
+    "label": "Ontdekkersjas",
+    "slot": "outfit",
+    "price": 7,
+    "asset": "assets/avatar/layers/outfit/explorer.svg",
+    "unlock": {
+      "type": "stars",
+      "price": 7
+    }
+  },
+  {
+    "id": "outfit-artist",
+    "label": "Kunstenaarsjas",
+    "slot": "outfit",
+    "price": 10,
+    "asset": "assets/avatar/layers/outfit/artist.svg",
+    "unlock": {
+      "type": "stars",
+      "price": 10
+    }
+  },
+  {
+    "id": "outfit-scientist",
+    "label": "Onderzoekersjas",
+    "slot": "outfit",
+    "price": 13,
+    "asset": "assets/avatar/layers/outfit/scientist.svg",
+    "unlock": {
+      "type": "stars",
+      "price": 13
+    }
+  },
+  {
+    "id": "hat-cap",
+    "label": "Pet",
+    "slot": "hat",
+    "price": 4,
+    "asset": "assets/avatar/layers/hat/cap.svg",
+    "unlock": {
+      "type": "stars",
+      "price": 4
+    }
+  },
+  {
+    "id": "hat-crown",
+    "label": "Kroon",
+    "slot": "hat",
+    "price": 7,
+    "asset": "assets/avatar/layers/hat/crown.svg",
+    "unlock": {
+      "type": "stars",
+      "price": 7
+    }
+  },
+  {
+    "id": "hat-wizard",
+    "label": "Sterrenhoed",
+    "slot": "hat",
+    "price": 10,
+    "asset": "assets/avatar/layers/hat/wizard.svg",
+    "unlock": {
+      "type": "stars",
+      "price": 10
+    }
+  },
+  {
+    "id": "hat-helmet",
+    "label": "Ruimtehelm",
+    "slot": "hat",
+    "price": 13,
+    "asset": "assets/avatar/layers/hat/helmet.svg",
+    "unlock": {
+      "type": "stars",
+      "price": 13
+    }
+  },
+  {
+    "id": "glasses-round",
+    "label": "Ronde bril",
+    "slot": "glasses",
+    "price": 4,
+    "asset": "assets/avatar/layers/glasses/round.svg",
+    "unlock": {
+      "type": "stars",
+      "price": 4
+    }
+  },
+  {
+    "id": "glasses-star",
+    "label": "Sterrenbril",
+    "slot": "glasses",
+    "price": 7,
+    "asset": "assets/avatar/layers/glasses/star.svg",
+    "unlock": {
+      "type": "stars",
+      "price": 7
+    }
+  },
+  {
+    "id": "glasses-goggles",
+    "label": "Onderzoekersbril",
+    "slot": "glasses",
+    "price": 10,
+    "asset": "assets/avatar/layers/glasses/goggles.svg",
+    "unlock": {
+      "type": "stars",
+      "price": 10
+    }
+  },
+  {
+    "id": "accessory-book",
+    "label": "Boek",
+    "slot": "accessory",
+    "price": 4,
+    "asset": "assets/avatar/layers/accessory/book.svg",
+    "unlock": {
+      "type": "stars",
+      "price": 4
+    }
+  },
+  {
+    "id": "accessory-wand",
+    "label": "Toverstaf",
+    "slot": "accessory",
+    "price": 7,
+    "asset": "assets/avatar/layers/accessory/wand.svg",
+    "unlock": {
+      "type": "stars",
+      "price": 7
+    }
+  },
+  {
+    "id": "accessory-magnifier",
+    "label": "Vergrootglas",
+    "slot": "accessory",
+    "price": 10,
+    "asset": "assets/avatar/layers/accessory/magnifier.svg",
+    "unlock": {
+      "type": "stars",
+      "price": 10
+    }
+  },
+  {
+    "id": "accessory-pencil",
+    "label": "Potlood",
+    "slot": "accessory",
+    "price": 13,
+    "asset": "assets/avatar/layers/accessory/pencil.svg",
+    "unlock": {
+      "type": "stars",
+      "price": 13
+    }
+  },
+  {
+    "id": "effect-stars",
+    "label": "Sterretjes",
+    "slot": "effect",
+    "price": 4,
+    "asset": "assets/avatar/layers/effect/stars.svg",
+    "unlock": {
+      "type": "milestone",
+      "event": "skill_mastery_confirmed",
+      "count": 1
+    }
+  },
+  {
+    "id": "effect-sparkles",
+    "label": "Vonken",
+    "slot": "effect",
+    "price": 7,
+    "asset": "assets/avatar/layers/effect/sparkles.svg",
+    "unlock": {
+      "type": "milestone",
+      "event": "skill_mastery_confirmed",
+      "count": 2
+    }
+  },
+  {
+    "id": "effect-hearts",
+    "label": "Hartjes",
+    "slot": "effect",
+    "price": 10,
+    "asset": "assets/avatar/layers/effect/hearts.svg",
+    "unlock": {
+      "type": "stars",
+      "price": 10
+    }
+  },
+  {
+    "id": "effect-leaves",
+    "label": "Blaadjes",
+    "slot": "effect",
+    "price": 13,
+    "asset": "assets/avatar/layers/effect/leaves.svg",
+    "unlock": {
+      "type": "stars",
+      "price": 13
+    }
+  },
+  {
+    "id": "expression-proud",
+    "label": "Trots",
+    "slot": "expression",
+    "price": 4,
+    "asset": "assets/avatar/layers/expression/proud.svg",
+    "unlock": {
+      "type": "milestone",
+      "event": "skill_mastery_confirmed",
+      "count": 1
+    }
+  },
+  {
+    "id": "expression-curious",
+    "label": "Nieuwsgierig",
+    "slot": "expression",
+    "price": 7,
+    "asset": "assets/avatar/layers/expression/curious.svg",
+    "unlock": {
+      "type": "milestone",
+      "event": "skill_mastery_confirmed",
+      "count": 2
+    }
+  },
+  {
+    "id": "expression-focused",
+    "label": "Geconcentreerd",
+    "slot": "expression",
+    "price": 10,
+    "asset": "assets/avatar/layers/expression/focused.svg",
+    "unlock": {
+      "type": "stars",
+      "price": 10
+    }
+  }
+]

@@ -1,0 +1,82 @@
+{
+  "frameworkId": "vl-minimumdoelen-bao",
+  "sourceVersion": "2025-officieel",
+  "registryVersion": "1.0.0",
+  "publisher": "AHOVOKS / Vlaamse overheid",
+  "sourceUrl": "https://publicaties.vlaanderen.be/view-file/86571",
+  "stages": [
+    "K3",
+    "L4",
+    "L6"
+  ],
+  "disciplines": [
+    "nl",
+    "math"
+  ],
+  "note": "Referenties en eigen samenvattingen; de officiële publicatie blijft gezaghebbend.",
+  "goals": [
+    {
+      "key": "vl.nl.K3.1.1.2",
+      "stage": "K3",
+      "discipline": "nl",
+      "officialGoalId": "1.1.2",
+      "summary": "Een klank op verschillende posities in gesproken woorden herkennen."
+    },
+    {
+      "key": "vl.nl.K3.1.1.4",
+      "stage": "K3",
+      "discipline": "nl",
+      "officialGoalId": "1.1.4",
+      "summary": "Minstens 15 letters herkennen via de bijbehorende klank."
+    },
+    {
+      "key": "vl.nl.L4.1.2.5",
+      "stage": "L4",
+      "discipline": "nl",
+      "officialGoalId": "1.2.5",
+      "summary": "Geselecteerde categorieën woorden correct spellen, waaronder ng/nk en klinkerpatronen."
+    },
+    {
+      "key": "vl.nl.L4.1.4.7",
+      "stage": "L4",
+      "discipline": "nl",
+      "officialGoalId": "1.4.7",
+      "summary": "Korte, lange en tweetekenklinkers en medeklinkers kennen."
+    },
+    {
+      "key": "vl.math.K3.2.1.8",
+      "stage": "K3",
+      "discipline": "math",
+      "officialGoalId": "2.1.8",
+      "summary": "Aantallen tot en met 10 koppelen aan telwoord en getalnotatie."
+    },
+    {
+      "key": "vl.math.L4.2.2.16",
+      "stage": "L4",
+      "discipline": "math",
+      "officialGoalId": "2.2.16",
+      "summary": "Optellingen en aftrekkingen tot en met 20 paraat kennen."
+    },
+    {
+      "key": "vl.math.L4.2.2.17",
+      "stage": "L4",
+      "discipline": "math",
+      "officialGoalId": "2.2.17",
+      "summary": "Vermenigvuldigings- en deeltafels van 1 tot en met 10 paraat kennen."
+    },
+    {
+      "key": "vl.math.L4.2.2.2",
+      "stage": "L4",
+      "discipline": "math",
+      "officialGoalId": "2.2.2",
+      "summary": "Vermenigvuldigen begrijpen via meerdere betekenismodellen."
+    },
+    {
+      "key": "vl.math.L4.2.2.3",
+      "stage": "L4",
+      "discipline": "math",
+      "officialGoalId": "2.2.3",
+      "summary": "Delen begrijpen als verdelings- en verhoudingsdeling."
+    }
+  ]
+}

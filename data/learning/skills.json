@@ -1,0 +1,273 @@
+[
+  {
+    "skillId": "nl.letters.recognize",
+    "label": "Letters herkennen",
+    "domain": "nl",
+    "moduleId": "letters",
+    "prerequisites": [],
+    "exerciseTypes": [
+      "see-select-letter"
+    ],
+    "goalLinks": [
+      {
+        "goalKey": "vl.nl.K3.1.1.4",
+        "coverage": "partial"
+      }
+    ]
+  },
+  {
+    "skillId": "nl.letters.sound-symbol",
+    "label": "Klank aan letter koppelen",
+    "domain": "nl",
+    "moduleId": "letters",
+    "prerequisites": [
+      "nl.letters.recognize"
+    ],
+    "exerciseTypes": [
+      "listen-select-letter"
+    ],
+    "goalLinks": [
+      {
+        "goalKey": "vl.nl.K3.1.1.4",
+        "coverage": "direct"
+      }
+    ]
+  },
+  {
+    "skillId": "nl.letters.case",
+    "label": "Hoofdletter en kleine letter koppelen",
+    "domain": "nl",
+    "moduleId": "letters",
+    "prerequisites": [
+      "nl.letters.recognize"
+    ],
+    "exerciseTypes": [
+      "match-case"
+    ],
+    "goalLinks": [
+      {
+        "goalKey": "vl.nl.K3.1.1.4",
+        "coverage": "enrichment"
+      }
+    ]
+  },
+  {
+    "skillId": "nl.spelling.ng-nk",
+    "label": "ng en nk onderscheiden",
+    "domain": "nl",
+    "moduleId": "words",
+    "prerequisites": [
+      "nl.letters.sound-symbol"
+    ],
+    "exerciseTypes": [
+      "listen-select-pattern",
+      "complete-pattern"
+    ],
+    "goalLinks": [
+      {
+        "goalKey": "vl.nl.L4.1.2.5",
+        "coverage": "partial"
+      }
+    ]
+  },
+  {
+    "skillId": "nl.vowels.short",
+    "label": "Korte klinkers onderscheiden",
+    "domain": "nl",
+    "moduleId": "words",
+    "prerequisites": [
+      "nl.letters.sound-symbol"
+    ],
+    "exerciseTypes": [
+      "listen-select-vowel"
+    ],
+    "goalLinks": [
+      {
+        "goalKey": "vl.nl.L4.1.4.7",
+        "coverage": "partial"
+      }
+    ]
+  },
+  {
+    "skillId": "nl.vowels.length",
+    "label": "Enkele en dubbele klinkers onderscheiden",
+    "domain": "nl",
+    "moduleId": "words",
+    "prerequisites": [
+      "nl.vowels.short"
+    ],
+    "exerciseTypes": [
+      "listen-select-grapheme"
+    ],
+    "goalLinks": [
+      {
+        "goalKey": "vl.nl.L4.1.4.7",
+        "coverage": "partial"
+      },
+      {
+        "goalKey": "vl.nl.L4.1.2.5",
+        "coverage": "partial"
+      }
+    ]
+  },
+  {
+    "skillId": "nl.vowels.compound",
+    "label": "Klinkercombinaties herkennen",
+    "domain": "nl",
+    "moduleId": "words",
+    "prerequisites": [
+      "nl.vowels.short"
+    ],
+    "exerciseTypes": [
+      "listen-select-category"
+    ],
+    "goalLinks": [
+      {
+        "goalKey": "vl.nl.L4.1.4.7",
+        "coverage": "partial"
+      }
+    ]
+  },
+  {
+    "skillId": "math.number.quantity-symbol.0-10",
+    "label": "Hoeveelheid en getalsymbool koppelen tot 10",
+    "domain": "math",
+    "moduleId": "numbers",
+    "prerequisites": [],
+    "exerciseTypes": [
+      "quantity-select-symbol"
+    ],
+    "goalLinks": [
+      {
+        "goalKey": "vl.math.K3.2.1.8",
+        "coverage": "direct"
+      }
+    ]
+  },
+  {
+    "skillId": "math.number.word-symbol.0-20",
+    "label": "Getalwoord en symbool koppelen tot 20",
+    "domain": "math",
+    "moduleId": "numbers",
+    "prerequisites": [
+      "math.number.quantity-symbol.0-10"
+    ],
+    "exerciseTypes": [
+      "listen-select-number"
+    ],
+    "goalLinks": [
+      {
+        "goalKey": "vl.math.K3.2.1.8",
+        "coverage": "partial"
+      }
+    ]
+  },
+  {
+    "skillId": "math.number.compare",
+    "label": "Getallen vergelijken",
+    "domain": "math",
+    "moduleId": "numbers",
+    "prerequisites": [
+      "math.number.quantity-symbol.0-10"
+    ],
+    "exerciseTypes": [
+      "compare-numbers"
+    ],
+    "goalLinks": [
+      {
+        "goalKey": "vl.math.K3.2.1.8",
+        "coverage": "partial"
+      }
+    ]
+  },
+  {
+    "skillId": "math.add.meaning",
+    "label": "Optellen als samenvoegen",
+    "domain": "math",
+    "moduleId": "math",
+    "prerequisites": [
+      "math.number.quantity-symbol.0-10"
+    ],
+    "exerciseTypes": [
+      "visual-combine"
+    ],
+    "goalLinks": [
+      {
+        "goalKey": "vl.math.L4.2.2.16",
+        "coverage": "prerequisite"
+      }
+    ]
+  },
+  {
+    "skillId": "math.add-sub.facts-20",
+    "label": "Optel- en aftrekfeiten tot 20",
+    "domain": "math",
+    "moduleId": "math",
+    "prerequisites": [
+      "math.add.meaning"
+    ],
+    "exerciseTypes": [
+      "solve-operation"
+    ],
+    "goalLinks": [
+      {
+        "goalKey": "vl.math.L4.2.2.16",
+        "coverage": "direct"
+      }
+    ]
+  },
+  {
+    "skillId": "math.multiply.meaning",
+    "label": "Vermenigvuldigen als gelijke groepen",
+    "domain": "math",
+    "moduleId": "multiply-divide",
+    "prerequisites": [
+      "math.add.meaning"
+    ],
+    "exerciseTypes": [
+      "equal-groups"
+    ],
+    "goalLinks": [
+      {
+        "goalKey": "vl.math.L4.2.2.2",
+        "coverage": "partial"
+      }
+    ]
+  },
+  {
+    "skillId": "math.tables.facts",
+    "label": "Maaltafels oefenen",
+    "domain": "math",
+    "moduleId": "multiply-divide",
+    "prerequisites": [
+      "math.multiply.meaning"
+    ],
+    "exerciseTypes": [
+      "multiplication-fact"
+    ],
+    "goalLinks": [
+      {
+        "goalKey": "vl.math.L4.2.2.17",
+        "coverage": "partial"
+      }
+    ]
+  },
+  {
+    "skillId": "math.divide.meaning",
+    "label": "Delen als eerlijk verdelen",
+    "domain": "math",
+    "moduleId": "multiply-divide",
+    "prerequisites": [
+      "math.multiply.meaning"
+    ],
+    "exerciseTypes": [
+      "exact-division"
+    ],
+    "goalLinks": [
+      {
+        "goalKey": "vl.math.L4.2.2.3",
+        "coverage": "partial"
+      }
+    ]
+  }
+]

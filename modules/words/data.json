@@ -1,0 +1,1225 @@
+[
+  {
+    "id": "w-001",
+    "text": "ring",
+    "language": "nl-BE",
+    "graphemes": [
+      "r",
+      "i",
+      "n",
+      "g"
+    ],
+    "vowelPattern": "i",
+    "vowelClass": "short",
+    "spellingPattern": "ng",
+    "contrastGroups": [
+      "ng-nk"
+    ],
+    "ambiguousAuditively": false,
+    "pronunciation": "ring",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-002",
+    "text": "bang",
+    "language": "nl-BE",
+    "graphemes": [
+      "b",
+      "a",
+      "n",
+      "g"
+    ],
+    "vowelPattern": "a",
+    "vowelClass": "short",
+    "spellingPattern": "ng",
+    "contrastGroups": [
+      "ng-nk"
+    ],
+    "ambiguousAuditively": false,
+    "pronunciation": "bang",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-003",
+    "text": "tong",
+    "language": "nl-BE",
+    "graphemes": [
+      "t",
+      "o",
+      "n",
+      "g"
+    ],
+    "vowelPattern": "o",
+    "vowelClass": "short",
+    "spellingPattern": "ng",
+    "contrastGroups": [
+      "ng-nk"
+    ],
+    "ambiguousAuditively": false,
+    "pronunciation": "tong",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-004",
+    "text": "slang",
+    "language": "nl-BE",
+    "graphemes": [
+      "s",
+      "l",
+      "a",
+      "n",
+      "g"
+    ],
+    "vowelPattern": "a",
+    "vowelClass": "short",
+    "spellingPattern": "ng",
+    "contrastGroups": [
+      "ng-nk"
+    ],
+    "ambiguousAuditively": false,
+    "pronunciation": "slang",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-005",
+    "text": "zang",
+    "language": "nl-BE",
+    "graphemes": [
+      "z",
+      "a",
+      "n",
+      "g"
+    ],
+    "vowelPattern": "a",
+    "vowelClass": "short",
+    "spellingPattern": "ng",
+    "contrastGroups": [
+      "ng-nk"
+    ],
+    "ambiguousAuditively": false,
+    "pronunciation": "zang",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-006",
+    "text": "ding",
+    "language": "nl-BE",
+    "graphemes": [
+      "d",
+      "i",
+      "n",
+      "g"
+    ],
+    "vowelPattern": "i",
+    "vowelClass": "short",
+    "spellingPattern": "ng",
+    "contrastGroups": [
+      "ng-nk"
+    ],
+    "ambiguousAuditively": false,
+    "pronunciation": "ding",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-007",
+    "text": "long",
+    "language": "nl-BE",
+    "graphemes": [
+      "l",
+      "o",
+      "n",
+      "g"
+    ],
+    "vowelPattern": "o",
+    "vowelClass": "short",
+    "spellingPattern": "ng",
+    "contrastGroups": [
+      "ng-nk"
+    ],
+    "ambiguousAuditively": false,
+    "pronunciation": "long",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-008",
+    "text": "gang",
+    "language": "nl-BE",
+    "graphemes": [
+      "g",
+      "a",
+      "n",
+      "g"
+    ],
+    "vowelPattern": "a",
+    "vowelClass": "short",
+    "spellingPattern": "ng",
+    "contrastGroups": [
+      "ng-nk"
+    ],
+    "ambiguousAuditively": false,
+    "pronunciation": "gang",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-009",
+    "text": "jong",
+    "language": "nl-BE",
+    "graphemes": [
+      "j",
+      "o",
+      "n",
+      "g"
+    ],
+    "vowelPattern": "o",
+    "vowelClass": "short",
+    "spellingPattern": "ng",
+    "contrastGroups": [
+      "ng-nk"
+    ],
+    "ambiguousAuditively": false,
+    "pronunciation": "jong",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-010",
+    "text": "sprong",
+    "language": "nl-BE",
+    "graphemes": [
+      "s",
+      "p",
+      "r",
+      "o",
+      "n",
+      "g"
+    ],
+    "vowelPattern": "o",
+    "vowelClass": "short",
+    "spellingPattern": "ng",
+    "contrastGroups": [
+      "ng-nk"
+    ],
+    "ambiguousAuditively": false,
+    "pronunciation": "sprong",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-011",
+    "text": "bank",
+    "language": "nl-BE",
+    "graphemes": [
+      "b",
+      "a",
+      "n",
+      "k"
+    ],
+    "vowelPattern": "a",
+    "vowelClass": "short",
+    "spellingPattern": "nk",
+    "contrastGroups": [
+      "ng-nk"
+    ],
+    "ambiguousAuditively": false,
+    "pronunciation": "bank",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-012",
+    "text": "dank",
+    "language": "nl-BE",
+    "graphemes": [
+      "d",
+      "a",
+      "n",
+      "k"
+    ],
+    "vowelPattern": "a",
+    "vowelClass": "short",
+    "spellingPattern": "nk",
+    "contrastGroups": [
+      "ng-nk"
+    ],
+    "ambiguousAuditively": false,
+    "pronunciation": "dank",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-013",
+    "text": "plank",
+    "language": "nl-BE",
+    "graphemes": [
+      "p",
+      "l",
+      "a",
+      "n",
+      "k"
+    ],
+    "vowelPattern": "a",
+    "vowelClass": "short",
+    "spellingPattern": "nk",
+    "contrastGroups": [
+      "ng-nk"
+    ],
+    "ambiguousAuditively": false,
+    "pronunciation": "plank",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-014",
+    "text": "drank",
+    "language": "nl-BE",
+    "graphemes": [
+      "d",
+      "r",
+      "a",
+      "n",
+      "k"
+    ],
+    "vowelPattern": "a",
+    "vowelClass": "short",
+    "spellingPattern": "nk",
+    "contrastGroups": [
+      "ng-nk"
+    ],
+    "ambiguousAuditively": false,
+    "pronunciation": "drank",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-015",
+    "text": "vonk",
+    "language": "nl-BE",
+    "graphemes": [
+      "v",
+      "o",
+      "n",
+      "k"
+    ],
+    "vowelPattern": "o",
+    "vowelClass": "short",
+    "spellingPattern": "nk",
+    "contrastGroups": [
+      "ng-nk"
+    ],
+    "ambiguousAuditively": false,
+    "pronunciation": "vonk",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-016",
+    "text": "pink",
+    "language": "nl-BE",
+    "graphemes": [
+      "p",
+      "i",
+      "n",
+      "k"
+    ],
+    "vowelPattern": "i",
+    "vowelClass": "short",
+    "spellingPattern": "nk",
+    "contrastGroups": [
+      "ng-nk"
+    ],
+    "ambiguousAuditively": false,
+    "pronunciation": "pink",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-017",
+    "text": "denk",
+    "language": "nl-BE",
+    "graphemes": [
+      "d",
+      "e",
+      "n",
+      "k"
+    ],
+    "vowelPattern": "e",
+    "vowelClass": "short",
+    "spellingPattern": "nk",
+    "contrastGroups": [
+      "ng-nk"
+    ],
+    "ambiguousAuditively": false,
+    "pronunciation": "denk",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-018",
+    "text": "zink",
+    "language": "nl-BE",
+    "graphemes": [
+      "z",
+      "i",
+      "n",
+      "k"
+    ],
+    "vowelPattern": "i",
+    "vowelClass": "short",
+    "spellingPattern": "nk",
+    "contrastGroups": [
+      "ng-nk"
+    ],
+    "ambiguousAuditively": false,
+    "pronunciation": "zink",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-019",
+    "text": "stank",
+    "language": "nl-BE",
+    "graphemes": [
+      "s",
+      "t",
+      "a",
+      "n",
+      "k"
+    ],
+    "vowelPattern": "a",
+    "vowelClass": "short",
+    "spellingPattern": "nk",
+    "contrastGroups": [
+      "ng-nk"
+    ],
+    "ambiguousAuditively": false,
+    "pronunciation": "stank",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-020",
+    "text": "flink",
+    "language": "nl-BE",
+    "graphemes": [
+      "f",
+      "l",
+      "i",
+      "n",
+      "k"
+    ],
+    "vowelPattern": "i",
+    "vowelClass": "short",
+    "spellingPattern": "nk",
+    "contrastGroups": [
+      "ng-nk"
+    ],
+    "ambiguousAuditively": false,
+    "pronunciation": "flink",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-021",
+    "text": "kat",
+    "language": "nl-BE",
+    "graphemes": [
+      "k",
+      "a",
+      "t"
+    ],
+    "vowelPattern": "a",
+    "vowelClass": "short",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "kat",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-022",
+    "text": "jas",
+    "language": "nl-BE",
+    "graphemes": [
+      "j",
+      "a",
+      "s"
+    ],
+    "vowelPattern": "a",
+    "vowelClass": "short",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "jas",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-023",
+    "text": "tak",
+    "language": "nl-BE",
+    "graphemes": [
+      "t",
+      "a",
+      "k"
+    ],
+    "vowelPattern": "a",
+    "vowelClass": "short",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "tak",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-024",
+    "text": "bel",
+    "language": "nl-BE",
+    "graphemes": [
+      "b",
+      "e",
+      "l"
+    ],
+    "vowelPattern": "e",
+    "vowelClass": "short",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "bel",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-025",
+    "text": "bed",
+    "language": "nl-BE",
+    "graphemes": [
+      "b",
+      "e",
+      "d"
+    ],
+    "vowelPattern": "e",
+    "vowelClass": "short",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "bed",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-026",
+    "text": "pen",
+    "language": "nl-BE",
+    "graphemes": [
+      "p",
+      "e",
+      "n"
+    ],
+    "vowelPattern": "e",
+    "vowelClass": "short",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "pen",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-027",
+    "text": "vis",
+    "language": "nl-BE",
+    "graphemes": [
+      "v",
+      "i",
+      "s"
+    ],
+    "vowelPattern": "i",
+    "vowelClass": "short",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "vis",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-028",
+    "text": "kip",
+    "language": "nl-BE",
+    "graphemes": [
+      "k",
+      "i",
+      "p"
+    ],
+    "vowelPattern": "i",
+    "vowelClass": "short",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "kip",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-029",
+    "text": "pit",
+    "language": "nl-BE",
+    "graphemes": [
+      "p",
+      "i",
+      "t"
+    ],
+    "vowelPattern": "i",
+    "vowelClass": "short",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "pit",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-030",
+    "text": "bos",
+    "language": "nl-BE",
+    "graphemes": [
+      "b",
+      "o",
+      "s"
+    ],
+    "vowelPattern": "o",
+    "vowelClass": "short",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "bos",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-031",
+    "text": "zon",
+    "language": "nl-BE",
+    "graphemes": [
+      "z",
+      "o",
+      "n"
+    ],
+    "vowelPattern": "o",
+    "vowelClass": "short",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "zon",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-032",
+    "text": "pop",
+    "language": "nl-BE",
+    "graphemes": [
+      "p",
+      "o",
+      "p"
+    ],
+    "vowelPattern": "o",
+    "vowelClass": "short",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "pop",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-033",
+    "text": "bus",
+    "language": "nl-BE",
+    "graphemes": [
+      "b",
+      "u",
+      "s"
+    ],
+    "vowelPattern": "u",
+    "vowelClass": "short",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "bus",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-034",
+    "text": "mus",
+    "language": "nl-BE",
+    "graphemes": [
+      "m",
+      "u",
+      "s"
+    ],
+    "vowelPattern": "u",
+    "vowelClass": "short",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "mus",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-035",
+    "text": "put",
+    "language": "nl-BE",
+    "graphemes": [
+      "p",
+      "u",
+      "t"
+    ],
+    "vowelPattern": "u",
+    "vowelClass": "short",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "put",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-036",
+    "text": "maan",
+    "language": "nl-BE",
+    "graphemes": [
+      "m",
+      "a",
+      "a",
+      "n"
+    ],
+    "vowelPattern": "aa",
+    "vowelClass": "long",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "maan",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-037",
+    "text": "raam",
+    "language": "nl-BE",
+    "graphemes": [
+      "r",
+      "a",
+      "a",
+      "m"
+    ],
+    "vowelPattern": "aa",
+    "vowelClass": "long",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "raam",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-038",
+    "text": "kaas",
+    "language": "nl-BE",
+    "graphemes": [
+      "k",
+      "a",
+      "a",
+      "s"
+    ],
+    "vowelPattern": "aa",
+    "vowelClass": "long",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "kaas",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-039",
+    "text": "been",
+    "language": "nl-BE",
+    "graphemes": [
+      "b",
+      "e",
+      "e",
+      "n"
+    ],
+    "vowelPattern": "ee",
+    "vowelClass": "long",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "been",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-040",
+    "text": "peer",
+    "language": "nl-BE",
+    "graphemes": [
+      "p",
+      "e",
+      "e",
+      "r"
+    ],
+    "vowelPattern": "ee",
+    "vowelClass": "long",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "peer",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-041",
+    "text": "zeep",
+    "language": "nl-BE",
+    "graphemes": [
+      "z",
+      "e",
+      "e",
+      "p"
+    ],
+    "vowelPattern": "ee",
+    "vowelClass": "long",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "zeep",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-042",
+    "text": "boom",
+    "language": "nl-BE",
+    "graphemes": [
+      "b",
+      "o",
+      "o",
+      "m"
+    ],
+    "vowelPattern": "oo",
+    "vowelClass": "long",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "boom",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-043",
+    "text": "roos",
+    "language": "nl-BE",
+    "graphemes": [
+      "r",
+      "o",
+      "o",
+      "s"
+    ],
+    "vowelPattern": "oo",
+    "vowelClass": "long",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "roos",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-044",
+    "text": "boot",
+    "language": "nl-BE",
+    "graphemes": [
+      "b",
+      "o",
+      "o",
+      "t"
+    ],
+    "vowelPattern": "oo",
+    "vowelClass": "long",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "boot",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-045",
+    "text": "muur",
+    "language": "nl-BE",
+    "graphemes": [
+      "m",
+      "u",
+      "u",
+      "r"
+    ],
+    "vowelPattern": "uu",
+    "vowelClass": "long",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "muur",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-046",
+    "text": "vuur",
+    "language": "nl-BE",
+    "graphemes": [
+      "v",
+      "u",
+      "u",
+      "r"
+    ],
+    "vowelPattern": "uu",
+    "vowelClass": "long",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "vuur",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-047",
+    "text": "buur",
+    "language": "nl-BE",
+    "graphemes": [
+      "b",
+      "u",
+      "u",
+      "r"
+    ],
+    "vowelPattern": "uu",
+    "vowelClass": "long",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "buur",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-048",
+    "text": "fiets",
+    "language": "nl-BE",
+    "graphemes": [
+      "f",
+      "i",
+      "e",
+      "t",
+      "s"
+    ],
+    "vowelPattern": "ie",
+    "vowelClass": "long",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "fiets",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-049",
+    "text": "dier",
+    "language": "nl-BE",
+    "graphemes": [
+      "d",
+      "i",
+      "e",
+      "r"
+    ],
+    "vowelPattern": "ie",
+    "vowelClass": "long",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "dier",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-050",
+    "text": "riet",
+    "language": "nl-BE",
+    "graphemes": [
+      "r",
+      "i",
+      "e",
+      "t"
+    ],
+    "vowelPattern": "ie",
+    "vowelClass": "long",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "riet",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-051",
+    "text": "boek",
+    "language": "nl-BE",
+    "graphemes": [
+      "b",
+      "o",
+      "e",
+      "k"
+    ],
+    "vowelPattern": "oe",
+    "vowelClass": "compound",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "boek",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-052",
+    "text": "koek",
+    "language": "nl-BE",
+    "graphemes": [
+      "k",
+      "o",
+      "e",
+      "k"
+    ],
+    "vowelPattern": "oe",
+    "vowelClass": "compound",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "koek",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-053",
+    "text": "voet",
+    "language": "nl-BE",
+    "graphemes": [
+      "v",
+      "o",
+      "e",
+      "t"
+    ],
+    "vowelPattern": "oe",
+    "vowelClass": "compound",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "voet",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-054",
+    "text": "neus",
+    "language": "nl-BE",
+    "graphemes": [
+      "n",
+      "e",
+      "u",
+      "s"
+    ],
+    "vowelPattern": "eu",
+    "vowelClass": "compound",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "neus",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-055",
+    "text": "deur",
+    "language": "nl-BE",
+    "graphemes": [
+      "d",
+      "e",
+      "u",
+      "r"
+    ],
+    "vowelPattern": "eu",
+    "vowelClass": "compound",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "deur",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-056",
+    "text": "kleur",
+    "language": "nl-BE",
+    "graphemes": [
+      "k",
+      "l",
+      "e",
+      "u",
+      "r"
+    ],
+    "vowelPattern": "eu",
+    "vowelClass": "compound",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "kleur",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-057",
+    "text": "muis",
+    "language": "nl-BE",
+    "graphemes": [
+      "m",
+      "u",
+      "i",
+      "s"
+    ],
+    "vowelPattern": "ui",
+    "vowelClass": "compound",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "muis",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-058",
+    "text": "huis",
+    "language": "nl-BE",
+    "graphemes": [
+      "h",
+      "u",
+      "i",
+      "s"
+    ],
+    "vowelPattern": "ui",
+    "vowelClass": "compound",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "huis",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-059",
+    "text": "fruit",
+    "language": "nl-BE",
+    "graphemes": [
+      "f",
+      "r",
+      "u",
+      "i",
+      "t"
+    ],
+    "vowelPattern": "ui",
+    "vowelClass": "compound",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": false,
+    "pronunciation": "fruit",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-060",
+    "text": "trein",
+    "language": "nl-BE",
+    "graphemes": [
+      "t",
+      "r",
+      "e",
+      "i",
+      "n"
+    ],
+    "vowelPattern": "ei/ij",
+    "vowelClass": "compound",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": true,
+    "pronunciation": "trein",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-061",
+    "text": "geit",
+    "language": "nl-BE",
+    "graphemes": [
+      "g",
+      "e",
+      "i",
+      "t"
+    ],
+    "vowelPattern": "ei/ij",
+    "vowelClass": "compound",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": true,
+    "pronunciation": "geit",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-062",
+    "text": "ijs",
+    "language": "nl-BE",
+    "graphemes": [
+      "i",
+      "j",
+      "s"
+    ],
+    "vowelPattern": "ei/ij",
+    "vowelClass": "compound",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": true,
+    "pronunciation": "ijs",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-063",
+    "text": "pauw",
+    "language": "nl-BE",
+    "graphemes": [
+      "p",
+      "a",
+      "u",
+      "w"
+    ],
+    "vowelPattern": "au/ou",
+    "vowelClass": "compound",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": true,
+    "pronunciation": "pauw",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-064",
+    "text": "saus",
+    "language": "nl-BE",
+    "graphemes": [
+      "s",
+      "a",
+      "u",
+      "s"
+    ],
+    "vowelPattern": "au/ou",
+    "vowelClass": "compound",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": true,
+    "pronunciation": "saus",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-065",
+    "text": "touw",
+    "language": "nl-BE",
+    "graphemes": [
+      "t",
+      "o",
+      "u",
+      "w"
+    ],
+    "vowelPattern": "au/ou",
+    "vowelClass": "compound",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": true,
+    "pronunciation": "touw",
+    "validated": "editorial-v1"
+  },
+  {
+    "id": "w-066",
+    "text": "goud",
+    "language": "nl-BE",
+    "graphemes": [
+      "g",
+      "o",
+      "u",
+      "d"
+    ],
+    "vowelPattern": "au/ou",
+    "vowelClass": "compound",
+    "spellingPattern": null,
+    "contrastGroups": [],
+    "ambiguousAuditively": true,
+    "pronunciation": "goud",
+    "validated": "editorial-v1"
+  }
+]
